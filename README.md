@@ -3,6 +3,9 @@
 -  I'm interested in learning about technology
 
 
+  ![felipesantos9's GitHub stats](https://github-readme-stats.vercel.app/api?username=felipesantos9&show_icons=true&theme=graywhite)
+
+
 <div style="display: inline_block"><br>
   
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
